@@ -1,2 +1,7 @@
-# COMP5120
-Database Systems I (Spring 2023)
+# COMP 5120
+COMP 5120 Project and Homework 
+Database Systems I
+
+```
+
+```
