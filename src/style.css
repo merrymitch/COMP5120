@@ -1,0 +1,74 @@
+body {
+    background-image: url("Books.jpeg");
+    background-repeat: repeat;
+    background-size: 100% 225%;
+    margin-bottom: 225px;
+}
+h1 {
+    text-align: center;
+    font-weight: bold;
+    color: white;
+    font-size: 60px;
+}
+h2 {
+    text-align: center;
+    color: white;
+    font-size: xxx-large;
+}
+label {
+    text-align: center;
+    color: white;
+    font-size: xxx-large;
+}
+button {
+    border: none;
+    background: saddlebrown;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    font-size: 25px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+textarea {
+    font-size: x-large;
+    height: 300px;
+    width: 60%;
+    text-align: center;
+    text-align-last: left;
+    padding: 4px;
+    margin: 10px;
+}
+input {
+    border: none;
+    background: saddlebrown;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    font-size: 25px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+table {
+    width:60%;
+    border: 1px solid saddlebrown;
+    border-collapse: collapse;
+    color: white;
+    font-size: x-large;
+    padding: 8px;
+    margin: auto;
+}
+td {
+    border: 1px solid saddlebrown;
+    border-collapse: collapse;
+}
+th {
+    background-color: saddlebrown;
+    text-align: center;
+    color: white;
+}
+td {
+    background-color: white;
+    color: saddlebrown;
+}
+
