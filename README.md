@@ -4,11 +4,26 @@ Database Systems I
 
 ```
 
-        Total Views per Day from 2023-05-02 to 2023-05-02
+        Total Views per Day from 2023-05-02 to 2023-05-03
 
         Repository Views
-      44 ┼
+      44 ┼╮
+      41 ┤│
+      38 ┤│
+      35 ┤│
+      32 ┤│
+      29 ┤│
+      26 ┤│
+      23 ┤│
+      21 ┤│
+      18 ┤│
+      15 ┤│
+      12 ┤│
+       9 ┤│
+       6 ┤│
+       3 ┤│
+       0 ┤╰
 
-        Chart last updated - Tue May  2 23:56:14 2023 UTC
+        Chart last updated - Wed May  3 23:56:12 2023 UTC
         
 ```
